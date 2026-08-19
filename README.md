@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dixantofficial1" alt="dixantofficial1" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
-  
-- 🌱 I’m currently learning **pandas, matplotlib**
 
-- 💬 Ask me about **Python, Data Visualization, C++, Competitive Programming**
+
+- 💬 Ask me about ** C++, Competitive Programming**
   
 - 📫 How to reach me **dixantofficial@gmail.com**
   
