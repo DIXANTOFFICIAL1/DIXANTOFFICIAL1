@@ -141,14 +141,6 @@ A full-stack visual workflow application for creating and processing connected w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixantofficial1&show_icons=true&locale=en" alt="Dixant's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
