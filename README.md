@@ -13,7 +13,6 @@
 
 ---
 
-
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering student specializing in **Artificial Intelligence & Data Science**
