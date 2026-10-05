@@ -25,6 +25,7 @@
 - 🧩 Interested in **system architecture, problem solving, and scalable software development**
 - 📫 Reach me at **dixantofficial@gmail.com**
 
+
 ---
 
 ### 🛠️ Languages & Technologies
