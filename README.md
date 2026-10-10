@@ -2,7 +2,6 @@
 
 <h3 align="center">Software Engineer | Full-Stack & AI Enthusiast</h3>
 
-
 <p align="center">
   <a href="https://linkedin.com/in/dixantsoni" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
